@@ -13,9 +13,9 @@ Education
 ======
 * B.S. in Engineering, the University of Tokyo, 2017
 * M.S. in Fronteer Science, the University of Tokyo, 2019 (expected)
-[](
+<!-- 
   * Ph.D in Version Control Theory, Github University, 2018 (expected)
-)
+ -->
 
 Work experience
 ======
