@@ -14,11 +14,19 @@ Education
 * B.S. in Engineering, the University of Tokyo, 2017
 * M.S. in Fronteer Science, the University of Tokyo, 2019 (expected)
 
-<!-- 
+<!--
   * Ph.D in Version Control Theory, Github University, 2018 (expected)
  -->
 
-<!-- 
+<!--
+Work experience
+======
+* 2019: JSPF Research Fellowship for Young Scientists DC1
+  * The University of Tokyo
+  * Supervisor: Professor Hiroshi Yamada
+-->
+
+<!--
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -46,7 +54,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -58,7 +66,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
