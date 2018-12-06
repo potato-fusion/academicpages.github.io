@@ -83,7 +83,7 @@ author:
   bio              : "Master student at the University of Tokyo"
   location         : "Japan"
   employer         :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.jp/citations?user=Cb4MOJEAAAAJ&hl=ja"
   email            :
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "potato-fusion"
+  twitter          : "potato_fusion"
   vine             :
   weibo            :
   xing             :
