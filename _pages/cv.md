@@ -23,7 +23,7 @@ Education
 
 Work experience
 ======
-* 2019: JSPF Research Fellowship for Young Scientists DC1 ([19J20641](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19J20641/)
+* 2019: JSPF Research Fellowship for Young Scientists DC1 ([19J20641](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19J20641/))
   * The University of Tokyo
   * Supervisor: Professor Hiroshi Yamada
 
