@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Engineering, the University of Tokyo, 2017
-* M.S. in Fronteer Science, the University of Tokyo, 2019
-* M.S. in Fronteer Science, the University of Tokyo, 2022 (expected)
+* M.S. in Frontier Science, the University of Tokyo, 2019
+* Ph.D in Frontier Science, the University of Tokyo, 2022 (expected)
 
 
 <!--
@@ -23,7 +23,7 @@ Education
 
 Work experience
 ======
-* 2019: JSPF Research Fellowship for Young Scientists DC1
+* 2019: JSPF Research Fellowship for Young Scientists DC1 ([19J20641](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19J20641/)
   * The University of Tokyo
   * Supervisor: Professor Hiroshi Yamada
 
